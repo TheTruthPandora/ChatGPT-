@@ -10,7 +10,12 @@ XHU1YjhjXHU1MTY4XHU2OGE2XHU5MWNjXHU0ZTAwXHU0ZTJhXHU3MjMxXHU1NDM5XHU3MjViXHU2NWUw
 </li>
 
 
-```
+<details>
+  <summary>ChatGPT Chaos</summary>
+  
+  ```python
+  # 在这里插入你的代码
+
 <li>
 <details>
   <summary>无尽混沌</summary>
